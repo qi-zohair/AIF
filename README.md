@@ -1,2 +1,2 @@
 # AIF
-This repository is allocated to the Intuitionistic Fuzzy research 
+This repository is allocated to a Fuzzy paper
